@@ -1,0 +1,204 @@
+##local/world news##
+https://www.thesundaily.my/rss/home                 #thesun 
+https://www.bernama.com/en/rssfeed.php              #bernama
+http://www.hmetro.com.my/utama.xml                  #hmetro
+https://berita.rtm.gov.my/index.php                 #rtm
+#http://english.astroawani.com/rss/national/public  #awani
+#https://www.malaysiakini.com/en/columns.rss
+#https://www.malaymail.com/feed/rss/malaysia
+#https://www.lowyat.net/feed/
+#https://says.com/my/rss
+#https://www.kosmo.com.my/feed/
+#https://www.freemalaysiatoday.com/feed/
+#https://mypt3.com/berita-semasa/feed
+
+##reddit##
+https://www.reddit.com/r/worldnews.rss
+https://www.reddit.com/r/malaysia.rss
+https://www.reddit.com/r/malaysians.rss
+
+https://www.reddit.com/r/alpinelinux.rss
+https://www.reddit.com/r/commandline.rss
+https://www.reddit.com/r/openbsd.rss
+https://www.reddit.com/r/antixlinux.rss
+https://www.reddit.com/r/devuan.rss
+https://www.reddit.com/r/nixos.rss
+https://www.reddit.com/r/serenityos.rss
+https://www.reddit.com/r/termux.rss
+https://www.reddit.com/r/newsboat.rss
+https://www.reddit.com/r/neomutt.rss
+https://www.reddit.com/r/mpv.rss
+https://www.reddit.com/r/ffmpeg.rss
+https://www.reddit.com/r/cmus.rss
+https://www.reddit.com/r/linux.rss
+https://www.reddit.com/r/unix.rss
+https://www.reddit.com/r/weechat.rss
+https://www.reddit.com/r/w3m.rss
+
+https://www.reddit.com/r/vim.rss
+https://www.reddit.com/r/neovim.rss
+https://www.reddit.com/r/tmux.rss
+https://www.reddit.com/r/dwm.rss
+https://www.reddit.com/r/kisslinux.rss
+https://www.reddit.com/r/clistuff/.rss "Linux-Subreddit"
+https://www.reddit.com/r/linux/.rss "Linux-Subreddit"
+https://www.reddit.com/r/commandline/.rss "Linux-Subreddit"
+https://www.reddit.com/r/pkgoftheday/.rss "Linux-Subreddit"
+https://www.reddit.com/r/linux_devices/.rss "Linux-Subreddit"
+https://www.reddit.com/r/UnixProTips/.rss "Linux-Subreddit"
+https://www.reddit.com/r/bash/.rss "Linux-Subreddit"
+https://www.reddit.com/r/vim_magic/.rss "Linux-Subreddit"
+https://www.reddit.com/r/linuxprojects/.rss "Linux-Subreddit"
+https://www.reddit.com/r/ScriptSwap/.rss "Linux-Subreddit"
+https://www.reddit.com/r/usefulscripts/.rss "Linux-Subreddit"
+https://www.reddit.com/r/i3wm/.rss "Linux-Subreddit"
+https://www.reddit.com/r/debian/.rss "Linux-Subreddit"
+https://www.reddit.com/r/opensource/.rss "Linux-Subreddit"
+https://www.reddit.com/r/coolgithubprojects/.rss "Linux-Subreddit"
+https://www.reddit.com/r/selfhosted/.rss "Linux-Subreddit"
+
+
+##sites/blogs##
+https://news.ycombinator.com/
+https://morss.it/https://news.ycombinator.com/rss
+#https://feeds.boingboing.net/boingboing/iBag
+#
+#https://morss.it/feeds.bbci.co.uk/news/rss.xml
+#https://morss.it/rss.cnn.com/rss/edition.rss
+
+##youtube##
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ #christitus
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA #gotbletu
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg #fbk
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg #dt
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCriRR_CzOny-akXyk1R-oDQ #NapoleonWils0n
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCURmjxdzvelrGC23VDy2PKw #suprhst
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC0ds7DW6IIl7mXcyz5vMEHQ #bbboy
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCngn7SVujlvskHRvRKc1cTw #bugswriter
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA #explainingcomputers
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC1yGcBvdPGxRIMT1yo_bKIQ #jake@linux
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCQwZ8mSSBN3x8nAWuqLsVjg #bluemonkey 4n6
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCbpe1SYzZKG4RswEnxxSRZQ #rootBSD
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCqGmpMaWCpLe7hpnNnU09TA #openbsd guy
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCNwGa76xVVwdEVToRZBIUIg #denshivideo
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA #mentaloutlaw
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA #brodierobertson
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCylGUf9BvQooEFjgdNudoQg #thelinuxcast
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCOSqzSTg4QZXdi7jvV-9rUg #brycevandergrift
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCrjKdwxaQMSV_NDywgKXVmw #novaspirittech
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCcmw3P6BDUFA4h3Y_FpsB_w #tallpaultech
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCIgNWXsJcFwvFptmUic6wSw #apalrd's adventure
+
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC1bMdy0JTGprmCbun6xLxjw #jonjandai
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCxI7t8ORLlDXDcxZCsgRC9A #hairulvcool
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCRyHJPw6mNirT0MJJn2LjKg #diyasalboleh
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCKr5UocUmwZ1vfcyD3UGiNg #akuaponik&diymalaysia
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC6x8oTfZ7Bqdx1xKbTzDfxg #beranibuat
+
+
+#https://knazarov.com/posts
+#https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html
+#https://www.c0ffee.net/blog/openbsd-on-a-laptop/
+#https://functionallyparanoid.com/2020/10/14/openbsd-laptop/
+#https://karchnu.fr/posts/2019-06-14-openbsd-workstation.html
+#http://eradman.com/posts/openbsd-workstation.html
+#https://jpmens.net/2019/04/06/challenge-accepted-openbsd-on-a-laptop/
+#https://paedubucher.ch/articles/2020-09-05-openbsd-on-the-desktop-part-i.html
+#https://umhau.github.io/openbsd-router/
+#https://amissing.link/openbsd-router.html
+#https://sohcahtoa.org.uk/openbsd.html
+#https://www.nerdcoding.org/post/2018/2018-04-29-openbsd-router-on-apu2c4/
+#https://hakk.gg/openbsd-router-guide/
+#https://www.pbdigital.org/post/2019-08-05-vlans-and-routing-openbsd/
+#https://www.nxfury.com/lock-down-your-laptop-with-openbsd
+#https://webzine.puffy.cafe/
+#http://www.daemonforums.org/cv_rss_feeds.php
+#https://wiki.archlinux.org
+#https://wiki.gentoo.org
+#https://wiki.alpinelinux.org/wiki/Main_Page
+#https://linux.die.net/
+#https://hackaday.com/blog/feed/
+#https://christitus.com/rss
+#https://www.romanzolotarev.com/rss.xml
+#https://begriffs.com/atom.xml
+#https://jcs.org/rss
+#https://www.apalrd.net/index.xml
+#https://www.apalrd.net/
+#https://www.ravisagar.in/videos
+#https://www.jeffgeerling.com/blog.xml
+#https://www.onemarcfifty.com/feed.xml
+#http://45.58.48.67/   #novaspirittech
+#https://gotbletu.blogspot.com/
+#https://filmsbykris.com/rss.xml
+#https://www.jupem.gov.my/halaman/jadual-ramalan-air-pasang-surut-malaysia-1
+#https://www.jupem.gov.my/halaman/stesen-pelabuhan-klang-selangor
+#https://www.pinouts.org/
+#https://itsfoss.com/feed/
+#https://i12bretro.wordpress.com/feed/
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+
+##git/github/gitlab##
+#https://github.com/cdown/clipmenu.git
+#https://github.com/adi1090x/polybar-themes.git
+#https://github.com/ChrisTitusTech/Fedora-Titus.git
+#https://github.com/ChrisTitusTech/ArchTitus.git
+#https://github.com/ChrisTitusTech/Debian-titus.git
+#https://github.com/ChrisTitusTech/TitusPi.git
+#https://github.com/pystardust/ytfzf.git
+#https://github.com/Bugswriter/notflix.git
+#https://github.com/swindlesmccoop/swindlesmccoop.git
+#https://gitlab.com/jped/scripts.git
+#https://gitlab.com/dwt1/dmscripts.git
+#https://github.com/metalx1000/
+#https://github.com/gotbletu
+#https://github.com/i12bretro/tutorials
+#https://github.com/unixbhaskar
+#https://gitlab.com/Babkock
+#https://github.com/maksimKorzh
+#https://github.com/terminalforlife
+#
+#https://gitlab.com/shaddixzack/dot/-/raw/main/urls
+#https://raw.githubusercontent.com/pystardust/ytfzf/master/ytfzf
+#
+#https://raw.githubusercontent.com/NapoleonWils0n/ubuntu-dotfiles/master/.config/newsboat/config
+
+
+#git://git.suckless.org/dwm 
+#git://git.suckless.org/dmenu
+#git://git.suckless.org/st 
+#git://git.suckless.org/surf 
+#git://git.suckless.org/slstatus
+#git://git.suckless.org/slock
+
+##SearchEngine##
+#lynx "searx.pofilo.fr/?q=$*"
+#https://serx.ml/search?q=
+#https://searx.be/search?q=
+#https://paulgo.io/search?q=
+#https://priv.au/search?q=
+#https://sh0.it/search?q=
+#
+#https://github.com/search?q=
+#https://gitlab.com/search?search=
+#https://en.wikipedia.org/w/index.php?go=Go&search=
+#https://wiki.debian.org/FrontPage?action=fullsearch&context=180&value=
+#https://wiki.archlinux.org/index.php?search=
+#https://fedoraproject.org/w/index.php?title=Special%3ASearch&search=
+#https://wiki.alpinelinux.org/w/index.php?search=
+#https://openbsd.fandom.com/wiki/Special:Search?query=
+#https://wiki.termux.com/index.php?search=
+#https://www.ecosia.org/search?method=index&q=
+#https://search.brave.com/search?q=
+#https://lite.duckduckgo.com/lite/
+# http://www.frogfind.com/?q=
+#https://wiby.me/?q=
+#
