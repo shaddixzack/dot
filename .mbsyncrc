@@ -1,0 +1,20 @@
+IMAPStore zoho-remote
+Host imap.zoho.com
+Port 993
+User ***********@tutanota.com
+Pass ********
+SSLType    IMAPS
+CertificateFile /etc/ssl/certs/ca-certificates.crt
+
+MailDirStore zoho-local
+Path ~/Maildir/
+Inbox ~/Maildir/
+Subfolders Verbatim
+
+Channel zoho
+Far :zoho-remote:
+Near :zoho-local:
+Create Both
+Expunge Both
+Patterns *
+SyncState *
