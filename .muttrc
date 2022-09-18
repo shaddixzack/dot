@@ -1,0 +1,49 @@
+#IMAP SETTINGS
+set imap_user = "**********@tutanota.com"
+#set imap_pass = ************
+set folder = "/root/" #for mbsync offline folder only
+#set folder = "imaps://imap.zoho.com:993"
+set imap_check_subscribed = yes
+set imap_list_subscribed = yes
+set timeout = 15
+set mail_check = 90
+set imap_keepalive = 180
+unset imap_passive
+set imap_idle
+set from = **********@zohomail.com
+set realname = "******** ****"
+
+#SMTP SETTINGS
+set smtp_url = "smtps://************@zohomail.com@smtp.zoho.com/587"
+#set ssl_starttls = yes #only if smtp_url above not using secure smtps
+#set smtp_pass = ************
+
+#MAILBOXES
+set spoolfile =    "+Maildir" #default for mbsync folder
+#set spoolfile = "+INBOX"
+#mailboxes = +INBOX
+#set record = +INBOX.Sent
+#set postponed = +INBOX.Drafts
+#set trash = +INBOX.Trash
+
+#MISC/MACRO
+#set sort = reverse-last-date-received
+set editor = vim
+set sidebar_visible = yes
+set sidebar_width = 15
+set query_command = "abook --mutt-query '%s'"
+macro generic,index,pager \ca "<shell-escape>abook<return>" "launch abook"
+macro index,pager A "<pipe-message>abook --add-email<return>" "add sender address to abook"
+
+# if hcache is a folder, mutt will create sub cache folder for each account for faster access
+#set header_cache = ~/.cache/mutt
+#set message_cachedir = ~/.cache/mutt
+
+#sidebar navigation
+#macro index,pager \Cp sidebar_prev
+#macro index,pager \Cn sidebar_next
+#macro index,pager \Ci sidebar_open
+#macro index,pager \Cb sidebar_toggle_visible
+
+#theming
+#source /root/colorcli.muttrc
