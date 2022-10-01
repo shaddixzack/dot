@@ -1,8 +1,8 @@
 ##local/world news##
 https://www.thesundaily.my/rss/home                 #thesun 
-https://www.bernama.com/en/rssfeed.php              #bernama
 http://www.hmetro.com.my/utama.xml                  #hmetro
-https://berita.rtm.gov.my/index.php                 #rtm
+#https://www.bernama.com/en/rssfeed.php              #bernama
+#https://berita.rtm.gov.my/index.php                 #rtm
 #http://english.astroawani.com/rss/national/public  #awani
 #https://www.malaysiakini.com/en/columns.rss
 #https://www.malaymail.com/feed/rss/malaysia
@@ -11,91 +11,57 @@ https://berita.rtm.gov.my/index.php                 #rtm
 #https://www.kosmo.com.my/feed/
 #https://www.freemalaysiatoday.com/feed/
 #https://mypt3.com/berita-semasa/feed
+https://news.ycombinator.com/
+https://feeds.boingboing.net/boingboing/iBag
+https://morss.it/feeds.bbci.co.uk/news/rss.xml
+https://morss.it/rss.cnn.com/rss/edition.rss
 
 ##reddit##
 https://www.reddit.com/r/worldnews.rss
-https://www.reddit.com/r/malaysia.rss
-https://www.reddit.com/r/malaysians.rss
+https://old.reddit.com/t/malaysia_news/
+#https://www.reddit.com/r/malaysia.rss
+#https://www.reddit.com/r/malaysians.rss
 
-https://www.reddit.com/r/alpinelinux.rss
-https://www.reddit.com/r/commandline.rss
-https://www.reddit.com/r/openbsd.rss
-https://www.reddit.com/r/antixlinux.rss
-https://www.reddit.com/r/devuan.rss
-https://www.reddit.com/r/nixos.rss
-https://www.reddit.com/r/serenityos.rss
-https://www.reddit.com/r/termux.rss
-https://www.reddit.com/r/newsboat.rss
-https://www.reddit.com/r/neomutt.rss
-https://www.reddit.com/r/mpv.rss
-https://www.reddit.com/r/ffmpeg.rss
-https://www.reddit.com/r/cmus.rss
-https://www.reddit.com/r/linux.rss
-https://www.reddit.com/r/unix.rss
-https://www.reddit.com/r/weechat.rss
-https://www.reddit.com/r/w3m.rss
-
-https://www.reddit.com/r/vim.rss
-https://www.reddit.com/r/neovim.rss
-https://www.reddit.com/r/tmux.rss
-https://www.reddit.com/r/dwm.rss
-https://www.reddit.com/r/kisslinux.rss
-https://www.reddit.com/r/clistuff/.rss "Linux-Subreddit"
-https://www.reddit.com/r/linux/.rss "Linux-Subreddit"
-https://www.reddit.com/r/commandline/.rss "Linux-Subreddit"
-https://www.reddit.com/r/pkgoftheday/.rss "Linux-Subreddit"
-https://www.reddit.com/r/linux_devices/.rss "Linux-Subreddit"
-https://www.reddit.com/r/UnixProTips/.rss "Linux-Subreddit"
-https://www.reddit.com/r/bash/.rss "Linux-Subreddit"
-https://www.reddit.com/r/vim_magic/.rss "Linux-Subreddit"
-https://www.reddit.com/r/linuxprojects/.rss "Linux-Subreddit"
-https://www.reddit.com/r/ScriptSwap/.rss "Linux-Subreddit"
-https://www.reddit.com/r/usefulscripts/.rss "Linux-Subreddit"
-https://www.reddit.com/r/i3wm/.rss "Linux-Subreddit"
-https://www.reddit.com/r/debian/.rss "Linux-Subreddit"
-https://www.reddit.com/r/opensource/.rss "Linux-Subreddit"
-https://www.reddit.com/r/coolgithubprojects/.rss "Linux-Subreddit"
-https://www.reddit.com/r/selfhosted/.rss "Linux-Subreddit"
+https://www.reddit.com/r/alpinelinux/comments.rss
+https://www.reddit.com/r/openbsd/comments.rss
+https://www.reddit.com/r/antixlinux/comments.rss
+https://www.reddit.com/r/devuan/comments.rss
+https://www.reddit.com/r/nixos/comments.rss
+https://www.reddit.com/r/serenityos/comments.rss
+https://www.reddit.com/r/termux/comments.rss
+https://www.reddit.com/r/newsboat/comments.rss
+https://www.reddit.com/r/neomutt/comments.rss
+https://www.reddit.com/r/mpv/comments.rss
+https://www.reddit.com/r/ffmpeg/comments.rss
+https://www.reddit.com/r/cmus/comments.rss
+https://www.reddit.com/r/unix/comments.rss
+https://www.reddit.com/r/weechat/comments.rss
+https://www.reddit.com/r/w3m/comments.rss
+https://www.reddit.com/r/vim/comments.rss
+https://www.reddit.com/r/neovim/comments.rss
+https://www.reddit.com/r/tmux/comments.rss
+https://www.reddit.com/r/dwm/comments.rss
+#https://www.reddit.com/r/kisslinux/comments.rss
+https://www.reddit.com/r/clistuff/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/linux/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/commandline/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/pkgoftheday/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/linux_devices/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/UnixProTips/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/bash/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/vim_magic/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/linuxprojects/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/ScriptSwap/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/usefulscripts/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/i3wm/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/debian/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/opensource/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/coolgithubprojects/comments.rss "Linux-Subreddit"
+https://www.reddit.com/r/selfhosted/comments.rss "Linux-Subreddit"
 
 
-##sites/blogs##
-https://news.ycombinator.com/
-https://morss.it/https://news.ycombinator.com/rss
-#https://feeds.boingboing.net/boingboing/iBag
+##sites/blogs/info/tutorials##
 #
-#https://morss.it/feeds.bbci.co.uk/news/rss.xml
-#https://morss.it/rss.cnn.com/rss/edition.rss
-
-##youtube##
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ #christitus
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA #gotbletu
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg #fbk
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg #dt
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCriRR_CzOny-akXyk1R-oDQ #NapoleonWils0n
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCURmjxdzvelrGC23VDy2PKw #suprhst
-#https://www.youtube.com/feeds/videos.xml?channel_id=UC0ds7DW6IIl7mXcyz5vMEHQ #bbboy
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCngn7SVujlvskHRvRKc1cTw #bugswriter
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA #explainingcomputers
-#https://www.youtube.com/feeds/videos.xml?channel_id=UC1yGcBvdPGxRIMT1yo_bKIQ #jake@linux
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCQwZ8mSSBN3x8nAWuqLsVjg #bluemonkey 4n6
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCbpe1SYzZKG4RswEnxxSRZQ #rootBSD
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCqGmpMaWCpLe7hpnNnU09TA #openbsd guy
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCNwGa76xVVwdEVToRZBIUIg #denshivideo
-#https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA #mentaloutlaw
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA #brodierobertson
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCylGUf9BvQooEFjgdNudoQg #thelinuxcast
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCOSqzSTg4QZXdi7jvV-9rUg #brycevandergrift
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCrjKdwxaQMSV_NDywgKXVmw #novaspirittech
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCcmw3P6BDUFA4h3Y_FpsB_w #tallpaultech
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCIgNWXsJcFwvFptmUic6wSw #apalrd's adventure
-
-#https://www.youtube.com/feeds/videos.xml?channel_id=UC1bMdy0JTGprmCbun6xLxjw #jonjandai
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCxI7t8ORLlDXDcxZCsgRC9A #hairulvcool
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCRyHJPw6mNirT0MJJn2LjKg #diyasalboleh
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCKr5UocUmwZ1vfcyD3UGiNg #akuaponik&diymalaysia
-#https://www.youtube.com/feeds/videos.xml?channel_id=UC6x8oTfZ7Bqdx1xKbTzDfxg #beranibuat
-
-
 #https://knazarov.com/posts
 #https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html
 #https://www.c0ffee.net/blog/openbsd-on-a-laptop/
@@ -134,19 +100,44 @@ https://morss.it/https://news.ycombinator.com/rss
 #https://www.jupem.gov.my/halaman/stesen-pelabuhan-klang-selangor
 #https://www.pinouts.org/
 #https://itsfoss.com/feed/
+#https://linuxhandbook.com/rss/
 #https://i12bretro.wordpress.com/feed/
-#
-#
-#
-#
-#
-#
-#
-#
+#https://tor.taxi/
+#https://dark.fail/
 #
 
+##YOUTUBE##
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ #christitus
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA #gotbletu
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg #fbk
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg #dt
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCriRR_CzOny-akXyk1R-oDQ #NapoleonWils0n
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCURmjxdzvelrGC23VDy2PKw #suprhst
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC0ds7DW6IIl7mXcyz5vMEHQ #bbboy
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCngn7SVujlvskHRvRKc1cTw #bugswriter
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA #explainingcomputers
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC1yGcBvdPGxRIMT1yo_bKIQ #jake@linux
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCQwZ8mSSBN3x8nAWuqLsVjg #bluemonkey 4n6
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCbpe1SYzZKG4RswEnxxSRZQ #rootBSD
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCqGmpMaWCpLe7hpnNnU09TA #openbsd guy
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCNwGa76xVVwdEVToRZBIUIg #denshivideo
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA #mentaloutlaw
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA #brodierobertson
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCylGUf9BvQooEFjgdNudoQg #thelinuxcast
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCOSqzSTg4QZXdi7jvV-9rUg #brycevandergrift
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCrjKdwxaQMSV_NDywgKXVmw #novaspirittech
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCcmw3P6BDUFA4h3Y_FpsB_w #tallpaultech
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCIgNWXsJcFwvFptmUic6wSw #apalrd's adventure
 
-##git/github/gitlab##
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC1bMdy0JTGprmCbun6xLxjw #jonjandai
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCxI7t8ORLlDXDcxZCsgRC9A #hairulvcool
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCRyHJPw6mNirT0MJJn2LjKg #diyasalboleh
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCKr5UocUmwZ1vfcyD3UGiNg #akuaponik&diymalaysia
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC6x8oTfZ7Bqdx1xKbTzDfxg #beranibuat
+
+
+
+##GIT/GITHUB/GITLAB##
 #https://github.com/cdown/clipmenu.git
 #https://github.com/adi1090x/polybar-themes.git
 #https://github.com/ChrisTitusTech/Fedora-Titus.git
@@ -166,12 +157,12 @@ https://morss.it/https://news.ycombinator.com/rss
 #https://github.com/maksimKorzh
 #https://github.com/terminalforlife
 #
+#https://gitlab.com/shaddixzack.atom?feed_token=xMfMQysSprDbD7_BhR6R
 #https://gitlab.com/shaddixzack/dot/-/raw/main/urls
+#https://github.com/shaddixzack/dot/raw/main/urls
 #https://raw.githubusercontent.com/pystardust/ytfzf/master/ytfzf
-#
 #https://raw.githubusercontent.com/NapoleonWils0n/ubuntu-dotfiles/master/.config/newsboat/config
-
-
+#
 #git://git.suckless.org/dwm 
 #git://git.suckless.org/dmenu
 #git://git.suckless.org/st 
@@ -199,6 +190,16 @@ https://morss.it/https://news.ycombinator.com/rss
 #https://www.ecosia.org/search?method=index&q=
 #https://search.brave.com/search?q=
 #https://lite.duckduckgo.com/lite/
-# http://www.frogfind.com/?q=
 #https://wiby.me/?q=
+#http://www.frogfind.com/?q=
+#https://www.qwant.com/?q=
+#https://search.givewater.com/serp?q=
+#https://www.wolframalpha.com/input?i=
+#https://boardreader.com/
+#https://yandex.com/search/?text=
+#https://gibiru.com/results.html?q=
+#https://www.lukol.com/s.php?q=
+#https://metager.org/meta/meta.ger3?eingabe=
+#https://www.gigablast.com/search?c=main&qlangcountry=en-us&q=
+#https://www.die.net/search/?q=
 #
